@@ -1,0 +1,9 @@
+torch>=1.13.0
+transformers>=4.30.0
+tqdm
+requests
+beautifulsoup4
+nltk
+pandas
+pytest
+

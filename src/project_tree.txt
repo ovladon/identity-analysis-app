@@ -1,0 +1,72 @@
+.
+├── app.py
+├── constructs
+│   ├── actual_self.py
+│   ├── agency.py
+│   ├── autonomy_vs_shame_doubt.py
+│   ├── base_construct.py
+│   ├── communion.py
+│   ├── contamination.py
+│   ├── ego_integrity_vs_despair.py
+│   ├── generativity_vs_stagnation.py
+│   ├── ideal_self.py
+│   ├── identity_achievement.py
+│   ├── identity_diffusion.py
+│   ├── identity_foreclosure.py
+│   ├── identity_moratorium.py
+│   ├── identity_vs_role_confusion.py
+│   ├── industry_vs_inferiority.py
+│   ├── in_group_identification.py
+│   ├── initiative_vs_guilt.py
+│   ├── __init__.py
+│   ├── intimacy_vs_isolation.py
+│   ├── keyword_and_model_construct.py
+│   ├── keyword_based_construct.py
+│   ├── meaning_making.py
+│   ├── model_based_construct.py
+│   ├── ought_self.py
+│   ├── out_group_differentiation.py
+│   ├── positive_distinctiveness.py
+│   ├── redemption.py
+│   └── trust_vs_mistrust.py
+├── environment.py
+├── exports
+│   ├── Andrew_Carnegie_v7refined_20250523_111059_results.json
+│   ├── Andrew_Carnegie_v7refined_20250523_111059_sunburst.png
+│   ├── Autobiography_by_John_Stuart_Mill_v7refined_20250523_111612_results.json
+│   ├── Autobiography_by_John_Stuart_Mill_v7refined_20250523_111612_sunburst.png
+│   ├── Autobiography_of_Z_S_Hastings_docx_20250523_112744.json
+│   ├── Autobiography_of_Z_S_Hastings_docx_20250523_112744.png
+│   ├── Black_Hawk_autobiography_docx_20250523_115527.json
+│   ├── Black_Hawk_autobiography_docx_20250523_115527.png
+│   ├── Narrative_of_the_Life_of_Frederick_Dougl_20250523_120910.json
+│   ├── Narrative_of_the_Life_of_Frederick_Dougl_20250523_120910.png
+│   ├── The_Autobiography_of_an_Ex_Colored_Man_b_20250523_121232.json
+│   ├── The_Autobiography_of_an_Ex_Colored_Man_b_20250523_121232.png
+│   ├── The_Autobiography_of_Benjamin_Franklin_d_20250523_121547.json
+│   ├── The_Autobiography_of_Benjamin_Franklin_d_20250523_121547.png
+│   ├── The_Autobiography_of_Benjamin_Franklin_d_20250523_143316.json
+│   ├── The_Autobiography_of_Benjamin_Franklin_d_20250523_143316.png
+│   ├── The_Autobiography_of_Charles_Darwin_docx_20250523_121847.json
+│   ├── The_Autobiography_of_Charles_Darwin_docx_20250523_121847.png
+│   ├── The_Autobiography_of_Goethe_docx_20250523_131355.json
+│   └── The_Autobiography_of_Goethe_docx_20250523_131355.png
+├── fara_database
+│   ├── app.py
+│   └── constructs
+│       └── keyword_and_model_construct.py
+├── file_processing.py
+├── lexicon_suggestions
+├── model_loader.py
+├── preprocessing.py
+├── project_tree.txt
+├── requirements.txt
+├── run_app.sh
+├── runs.db
+├── session_export.py
+├── temporal_weighting.py
+├── theory_definitions.py
+├── visualization.py
+└── weighting_algorithm.py
+
+5 directories, 64 files

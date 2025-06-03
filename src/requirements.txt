@@ -1,0 +1,10 @@
+streamlit>=1.32
+spacy>=3.7
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+transformers>=4.39
+scikit-learn>=1.4
+dateparser>=1.1          # ← comment this line out if you applied the stub
+rapidfuzz>=3.5
+plotly>=5.19
+pytest>=8.1
+
