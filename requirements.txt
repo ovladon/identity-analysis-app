@@ -7,3 +7,7 @@ nltk
 pandas
 pytest
 
+streamlit
+streamlit
+beautifulsoup4
+plotly
